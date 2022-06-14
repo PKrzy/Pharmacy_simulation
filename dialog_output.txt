@@ -1,0 +1,109 @@
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 5
+
+Pharmacist id 4290 supports client
+Client: Evelyn Action: leave Pharmacy
+
+Pharmacist id 5806 supports client
+Client: Alisha Action: buy medicines
+
+Pharmacist id 1860 supports client
+Client: Maggie Action: leave Pharmacy
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 2
+
+- Hello, please help me with my symptoms: 
+*stomachache
+- Hello! There you go: 
+
+Type: Pills
+Name: Active_coal
+Producer: Medipharm
+Substance: active_coal
+Prescripted: 0
+Position : 108
+Symptoms : food_poisoning stomachache 
+Base price: 15 zl
+Taxed price: 18.45 zl
+
+ 
+Pharmacist id 4290 supports client
+Client: Clayton Action: ask about medicines
+
+Client: Alisha Action: get invoice
+
+_____________________________________________________________
+|                                                           |
+| Pharmacy 'Pharmax' limited liability company              |
+| Siedmiogrodzka street 13c                                 |
+| 01-204 Warsaw, Poland                                     |
+| NIP: 0123456609                                           |
+| Phone: +48 321 243 967                                    |
+|                                                           |
+|                                                           |
+|                   VAT INVOICE                             |
+|                                                           |
+|                                                           |
+|                                                           |
+|               name:       producer:    tax:  base:  total:|
+|           Furaginum           Hasco     23%  34.00   41.82|
+|         Trazdodonix           Hasco     23%  50.00    61.5|
+_____________________________________________________________
+|                                                           |
+|                  TOTAL BASE:                         84.00|
+|                   TOTAL TAX:                         19.32|
+|                       TOTAL:                        103.32|
+| Sell to: Alisha                                              
+| NIP: 1143073078                                           |
+|                                                           |
+_____________________________________________________________
+Pharmacist id 1860 supports client
+Client: Kendra Action: leave Pharmacy
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 0
+
+Pharmacist id 4290 supports client
+Client: Clayton Action: leave Pharmacy
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 1
+
+Pharmacist id 4290 supports client
+Client: Cassie Action: leave Pharmacy
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 0
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 0
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 0
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 0
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 1
+
+Pharmacist id 4290 supports client
+Client: Randy Action: leave Pharmacy
+
+Windows number: 5
+Pharmacists number: 3
+Clients in queue number: 1
+
+Pharmacist id 4290 supports client
+Client: Sylvia Action: leave Pharmacy
+
